@@ -1,3 +1,0 @@
-Nubank UI Flutter
-
-Este projeto é uma implementação da interface do usuário do aplicativo Nubank usando Flutter!!!
